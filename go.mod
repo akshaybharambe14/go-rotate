@@ -1,3 +1,3 @@
-module github.com/akshaybharambe14/rotate
+module github.com/akshaybharambe14/go-rotate
 
 go 1.13
